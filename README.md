@@ -18,7 +18,7 @@ Case Study - Jonh Snow Map
 ## Conteúdo ministrado
 author: Prof. Dr. Ivanovitch Silva @ivanovitchm
 
-##Resolução dos Exercícios
+## Resolução dos Exercícios
 Eliseu Medeiros @eliseumedeiros
 
 

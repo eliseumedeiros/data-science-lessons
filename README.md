@@ -1,6 +1,6 @@
 # data-science-lessons
-Exercícios ministrados nas aulas da disciplina de Ciência de Dados na Universidade Federal do Rio Grande do Norte (UFRN)
-Os conteúdos são:
+Exercícios ministrados nas aulas da disciplina de - Ciência de Dados - na Universidade Federal do Rio Grande do Norte (UFRN).
+Os conteúdos são correspondentes as aulas:
 
 <h4>Lesson #16</h4>
 Case study: NYC open data (education)
